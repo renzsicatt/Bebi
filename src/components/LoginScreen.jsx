@@ -30,7 +30,7 @@ export default function LoginScreen({ onUnlock }) {
             <input id="password" type={show ? 'text' : 'password'} value={password} onChange={(e) => { setPassword(e.target.value); setError(false) }} placeholder="Enter our secret word" autoFocus />
             <button type="button" className="icon-button" onClick={() => setShow(!show)} aria-label={show ? 'Hide password' : 'Show password'}>{show ? <EyeOff /> : <Eye />}</button>
           </div>
-          <div className="login-message" aria-live="polite">{error ? "Hmm hindi ikaw 'to ah 😤" : 'Hint: my favorite nickname for you ♡'}</div>
+          <div className="login-message" aria-live="polite">{error ? "Hmm hindi ikaw 'to ah 😤" : 'Hint: endearment natin ♡'}</div>
           <button className="primary-button login-button" type="submit">Let me in <ArrowRight size={18} /></button>
         </form>
       </div>
