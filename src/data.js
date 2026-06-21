@@ -30,7 +30,6 @@ export const lambingMessages = [
   'Kung pagod ka, dito ka lang. May unlimited lambing at zero judgment tayo.',
   'Miss na kita. Medyo dramatic, pero accurate naman. Halika nga rito. 🫶',
   'Proud ako sayo even on the days na ang achievement mo lang ay bumangon.',
-  'Ikaw pa rin ang favorite notification ko, kahit “ano ulam?” lang ang message mo.',
   'I love doing nothing with you. Somehow, it still feels like everything.',
 ]
 
