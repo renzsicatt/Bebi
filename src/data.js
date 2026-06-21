@@ -29,7 +29,7 @@ export const lambingMessages = [
   'Bebiiiiii, pahinga ka rin ha? Hindi ka machine—ikaw ang favorite person ko.',
   'Kung pagod ka, dito ka lang. May unlimited lambing at zero judgment tayo.',
   'Miss na kita. Medyo dramatic, pero accurate naman. Halika nga rito. 🫶',
-  'Proud ako sa’yo—even on the days na ang achievement mo lang ay bumangon.',
+  'Proud ako sayo even on the days na ang achievement mo lang ay bumangon.',
   'Ikaw pa rin ang favorite notification ko, kahit “ano ulam?” lang ang message mo.',
   'I love doing nothing with you. Somehow, it still feels like everything.',
 ]
@@ -47,7 +47,7 @@ export const galleryItems = [
 export const openWhenLetters = [
   { id: 'sad', emoji: '🌧️', title: "Open when you're sad", preview: 'For the heavy days', message: "Bebiiiiii, okay lang hindi maging okay today. Hindi mo kailangang ayusin lahat agad. Breathe, drink some water, and remember: hindi ka nag-iisa. I’m here—ready makinig, mangulit, or just sit quietly with you. I love you on your bright days and especially on the cloudy ones." },
   { id: 'miss', emoji: '🌙', title: 'Open when you miss me', preview: 'A tiny pocket-sized hug', message: "I miss you too—probably more than I’m admitting. Close your eyes and imagine my tightest hug, ‘yung ayaw pa kitang bitawan. Distance is just a little pause; ikaw pa rin ang favorite place ko to come home to." },
-  { id: 'motivation', emoji: '✨', title: 'Open when you need motivation', preview: 'You can do hard things', message: "Look how far you’ve come, love. You don’t have to finish everything today—one small step is enough. I believe in you even when your own confidence is on low battery. Kaya mo ’yan, and I’ll be cheering embarrassingly loud the whole way." },
+  { id: 'motivation', emoji: '✨', title: 'Open when you need motivation', preview: 'You can do hard things', message: "Look how far you’ve come, love. You don’t have to finish everything today—one small step is enough. I believe in you even when your own confidence is on low battery. Kaya mo yan, and I’ll be cheering embarrassingly loud the whole way." },
 ]
 
 export const futurePlans = [
